@@ -4,6 +4,7 @@
     "xstring": "cpp",
     "utility": "cpp",
     "set": "cpp",
-    "vector": "cpp"
+    "vector": "cpp",
+    "random": "cpp"
   }
 }
