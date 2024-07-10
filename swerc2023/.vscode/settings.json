@@ -1,0 +1,17 @@
+{
+  "files.associations": {
+    "random": "cpp",
+    "vector": "cpp",
+    "deque": "cpp",
+    "format": "cpp",
+    "list": "cpp",
+    "xstring": "cpp",
+    "ostream": "cpp",
+    "algorithm": "cpp",
+    "chrono": "cpp",
+    "limits": "cpp",
+    "utility": "cpp",
+    "valarray": "cpp"
+  },
+  "C_Cpp.errorSquiggles": "disabled"
+}
